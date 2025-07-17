@@ -2,6 +2,8 @@
 
 A simple web application that displays random quotes fetched from an API, with options to listen to the quote, copy it to the clipboard, or share it on Twitter.
 
+
+
 ## ✨ Features
 Fetches random quotes using the [Quotable API](https://api.quotable.io).
 Displays quote text and author.
